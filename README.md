@@ -16,7 +16,7 @@
 - C. Szegedy et al., **Going Deeper with Convolutions**, CVPR, 2015 [[pdf]](https://arxiv.org/pdf/1409.4842v1.pdf)
 - K. He et al., **Deep Residual Learning for Image Recognition**, CoRR, 2015 [[pdf]](https://arxiv.org/pdf/1512.03385.pdf)
 - I. Goodfellow et al., **Generative Adversarial Nets**, NIPS, 2014 [[pdf]](https://arxiv.org/pdf/1406.2661v1.pdf)
-- F. Iandola et al., **SqueezeNet: AlexNet-level accuracy with 50x Fewer Parameters and <0.5MB model size**, ICLR, 2017 [[pdf]](https://arxiv.org/pdf/1602.07360.pdf)
+- F. Iandola et al., **SqueezeNet**, ICLR, 2017 [[pdf]](https://arxiv.org/pdf/1602.07360.pdf)
 
 ### Computer Vision
 
