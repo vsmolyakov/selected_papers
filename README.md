@@ -7,8 +7,9 @@
 
 ### Deep Learning
 
-- K. He et al., **Deep Residual Learning for Image Recognition**, CoRR, 2015 [[pdf]](https://arxiv.org/pdf/1512.03385.pdf)
+- K. Simonyan et al., **Very Deep Convolutional Networks for Large-Scale Image Recognition**, ICLR, 2015 [[pdf]](https://arxiv.org/pdf/1409.1556.pdf)
 - C. Szegedy et al., **Going Deeper with Convolutions**, CVPR, 2015 [[pdf]](https://arxiv.org/pdf/1409.4842v1.pdf)
+- K. He et al., **Deep Residual Learning for Image Recognition**, CoRR, 2015 [[pdf]](https://arxiv.org/pdf/1512.03385.pdf)
 
 ### Computer Vision
 
