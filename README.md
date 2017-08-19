@@ -28,6 +28,7 @@
 ### Natural Language Processing
 
 - T. Mikolov, **Efficient Estimation of Word Representations in Vector Space**, CoRR, 2013 [[pdf]](https://arxiv.org/pdf/1301.3781.pdf)
+- I. Sutskever, **Sequence to Sequence Learning with Neural Networks**, NIPS, 2014 [[pdf]](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
 
 
 
