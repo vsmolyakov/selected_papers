@@ -27,6 +27,7 @@
 
 ### Natural Language Processing
 
+- T. Mikolov, **Efficient Estimation of Word Representations in Vector Space**, CoRR, 2013 [[pdf]](https://arxiv.org/pdf/1301.3781.pdf)
 
 
 
