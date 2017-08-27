@@ -27,10 +27,11 @@
 
 ### Natural Language Processing
 
-- T. Mikolov, **Efficient Estimation of Word Representations in Vector Space**, CoRR, 2013 [[pdf]](https://arxiv.org/pdf/1301.3781.pdf)
-- Q. Le, **Distributed Representations of Sentences and Documents**, ICML, 2014 [[pdf]](https://arxiv.org/pdf/1405.4053v2.pdf)
-- I. Sutskever, **Sequence to Sequence Learning with Neural Networks**, NIPS, 2014 [[pdf]](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
-- D. Bahdanau, **Neural Machine Translation by Jointly Learning to Align and Translate**, ICLR, 2015 [[pdf]](https://arxiv.org/pdf/1409.0473.pdf)  
+- T. Mikolov et al., **Efficient Estimation of Word Representations in Vector Space**, CoRR, 2013 [[pdf]](https://arxiv.org/pdf/1301.3781.pdf)
+- J. Pennington et al., **GloVe: Global Vectors for Word Representation**, EMNLP, 2014 [[pdf]](https://nlp.stanford.edu/pubs/glove.pdf)
+- Q. Le et al., **Distributed Representations of Sentences and Documents**, ICML, 2014 [[pdf]](https://arxiv.org/pdf/1405.4053v2.pdf)
+- I. Sutskever et al., **Sequence to Sequence Learning with Neural Networks**, NIPS, 2014 [[pdf]](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
+- D. Bahdanau et al., **Neural Machine Translation by Jointly Learning to Align and Translate**, ICLR, 2015 [[pdf]](https://arxiv.org/pdf/1409.0473.pdf)  
 
 
 
