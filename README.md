@@ -34,5 +34,8 @@
 - D. Bahdanau et al., **Neural Machine Translation by Jointly Learning to Align and Translate**, ICLR, 2015 [[pdf]](https://arxiv.org/pdf/1409.0473.pdf)  
 
 
+### Speech Recognition
+
+- A. Graves et al., **Speech Recognition with Deep Recurrent Neural Networks**, ICASSP, 2013 [[pdf]](https://arxiv.org/pdf/1303.5778.pdf)  
 
 
