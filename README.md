@@ -39,3 +39,7 @@
 - A. Graves et al., **Speech Recognition with Deep Recurrent Neural Networks**, ICASSP, 2013 [[pdf]](https://arxiv.org/pdf/1303.5778.pdf)  
 
 
+### Reinforcement Learning
+
+- V. Mnih et al., **Playing Atari with Deep Reinforcement Learning**, NIPS, 2013 [[pdf]](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)  
+
