@@ -44,6 +44,7 @@
 
 ### Speech Recognition
 
+- N. Jaitly et al., **Application of Pretrained Deep Neural Networks to Large Vocabulary Speech Recognition**, Interspeech, 2012 [[pdf]](http://www.cs.toronto.edu/~ndjaitly/jaitly-interspeech12.pdf)  
 - A. Graves et al., **Speech Recognition with Deep Recurrent Neural Networks**, ICASSP, 2013 [[pdf]](https://arxiv.org/pdf/1303.5778.pdf)  
 - D. Bahdanau et al., **End-to-End Attention-based Large Vocabulary Speech Recognition**, ICASSP, 2016 [[pdf]](https://arxiv.org/pdf/1508.04395.pdf)
 
