@@ -26,12 +26,15 @@
 - D. Kingma et al., **Adam: A Method for Stochastic Optimization**, ICLR, 2015 [[pdf]](https://arxiv.org/pdf/1412.6980.pdf)
 - F. Iandola et al., **SqueezeNet**, ICLR, 2017 [[pdf]](https://arxiv.org/pdf/1602.07360.pdf)
 
+
 ### Computer Vision
 
 - O. Vinyals et al., **Show and Tell: A Neural Image Caption Generator**, CVPR, 2015 [[pdf]](https://arxiv.org/pdf/1411.4555.pdf)
 - L. Gatys et al., **A Neural Algorithm of Artistic Style**, CoRR, 2015 [[pdf]](https://arxiv.org/pdf/1508.06576.pdf)
 - A. Agrawal et al., **VQA: Visual Question Answering**, ICCV, 2015 [[pdf]](https://arxiv.org/pdf/1505.00468.pdf)
 - R. Girshick et al., **Fast R-CNN**, ICCV, 2015 [[pdf]](https://arxiv.org/pdf/1504.08083.pdf)
+- J. Long et al., **Fully Convolutional Networks for Semantic Segmentation**, CVPR, 2015 [[pdf]](https://arxiv.org/pdf/1411.4038.pdf)
+
 
 ### Natural Language Processing
 
