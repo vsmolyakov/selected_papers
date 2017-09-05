@@ -5,6 +5,7 @@
 - M. Jordan et al., **An Introduction to MCMC for Machine Learning**, Machine Learning, 2003 [[pdf]](http://www.cs.bham.ac.uk/~axk/mcmc1.pdf)
 - Y. Teh et al. **Hierarchical Dirichlet Processes**, Journal of American Statistical Association, 2006 [[pdf]](https://people.eecs.berkeley.edu/~jordan/papers/hdp.pdf)
 - D. Lin et al. **Construction of Dependent Dirichlet Processes based on Poisson Processes**, NIPS, 2010 [[pdf]](https://papers.nips.cc/paper/4151-construction-of-dependent-dirichlet-processes-based-on-poisson-processes.pdf)
+- J. Snoek et al. **Practical Bayesian Optimization of Machine Learning Algorithms**, NIPS, 2012 [[pdf]](https://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf)
 - M. Hoffman et al. **Stochastic Variational Inference**, JMLR, 2013 [[pdf]](https://arxiv.org/pdf/1206.7051.pdf)
 - J. Chang et al. **Parallel Sampling of HDPs using Sub-Cluster Splits**, NIPS, 2014 [[pdf]](https://papers.nips.cc/paper/5235-parallel-sampling-of-hdps-using-sub-cluster-splits.pdf)
 - M. Hoffman, **The No-U-Turn Sampler: Adaptively Setting Path Lengths in Hamiltonian Monte Carlo**, JMLR, 2014 [[pdf]](https://arxiv.org/pdf/1111.4246.pdf)
