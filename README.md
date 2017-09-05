@@ -35,6 +35,7 @@
 - A. Agrawal et al., **VQA: Visual Question Answering**, ICCV, 2015 [[pdf]](https://arxiv.org/pdf/1505.00468.pdf)
 - R. Girshick et al., **Fast R-CNN**, ICCV, 2015 [[pdf]](https://arxiv.org/pdf/1504.08083.pdf)
 - J. Long et al., **Fully Convolutional Networks for Semantic Segmentation**, CVPR, 2015 [[pdf]](https://arxiv.org/pdf/1411.4038.pdf)
+- J. Redmon et al., **You Only Look Once: Unified, Real-Time Object Detection**, CVPR, 2016 [[pdf]](https://arxiv.org/pdf/1506.02640.pdf)
 
 
 ### Natural Language Processing
