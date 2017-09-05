@@ -9,7 +9,7 @@
 - M. Hoffman et al. **Stochastic Variational Inference**, JMLR, 2013 [[pdf]](https://arxiv.org/pdf/1206.7051.pdf)
 - J. Chang et al. **Parallel Sampling of HDPs using Sub-Cluster Splits**, NIPS, 2014 [[pdf]](https://papers.nips.cc/paper/5235-parallel-sampling-of-hdps-using-sub-cluster-splits.pdf)
 - M. Hoffman, **The No-U-Turn Sampler: Adaptively Setting Path Lengths in Hamiltonian Monte Carlo**, JMLR, 2014 [[pdf]](https://arxiv.org/pdf/1111.4246.pdf)
-- T. Chen, **XGBoost: A Scalable Tree Boosting System**, KDD, 2016 [[pdf]](https://arxiv.org/pdf/1603.02754.pdf)
+- T. Chen et al. **XGBoost: A Scalable Tree Boosting System**, KDD, 2016 [[pdf]](https://arxiv.org/pdf/1603.02754.pdf)
 - A. Kucukelbir et al. **Automatic Differentiation Variational Inference**, JMLR, 2017 [[pdf]](https://arxiv.org/pdf/1603.00788.pdf)
 
 
