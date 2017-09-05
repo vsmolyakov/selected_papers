@@ -15,6 +15,7 @@
 ### Deep Learning
 
 - A. Krizhevsky et al., **ImageNet Classification with Deep Convolutional Neural Networks**, NIPS, 2012 [[pdf]](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+- J. Bergstra et al., **Random Search for Hyper-Parameter Optimization**, JMLR, 2012 [[pdf]](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf)
 - M. Lin et al., **Network in Network**, CoRR, 2013 [[pdf]](https://arxiv.org/pdf/1312.4400.pdf)
 - I. Goodfellow et al., **Generative Adversarial Nets**, NIPS, 2014 [[pdf]](https://arxiv.org/pdf/1406.2661v1.pdf)
 - N. Srivastava et al., **Dropout: A Simple Way to Prevent Neural Networks from Overfitting**, JMLR, 2014 [[pdf]](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
