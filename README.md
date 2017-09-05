@@ -29,6 +29,7 @@
 
 ### Computer Vision
 
+- A. Karpathy et al., **Large-scale Video Classification with Convolutional Neural Networks**, CVPR, 2014 [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Karpathy_Large-scale_Video_Classification_2014_CVPR_paper.pdf)
 - O. Vinyals et al., **Show and Tell: A Neural Image Caption Generator**, CVPR, 2015 [[pdf]](https://arxiv.org/pdf/1411.4555.pdf)
 - L. Gatys et al., **A Neural Algorithm of Artistic Style**, CoRR, 2015 [[pdf]](https://arxiv.org/pdf/1508.06576.pdf)
 - A. Agrawal et al., **VQA: Visual Question Answering**, ICCV, 2015 [[pdf]](https://arxiv.org/pdf/1505.00468.pdf)
