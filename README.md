@@ -7,6 +7,7 @@
 - D. Lin et al. **Construction of Dependent Dirichlet Processes based on Poisson Processes**, NIPS, 2010 [[pdf]](https://papers.nips.cc/paper/4151-construction-of-dependent-dirichlet-processes-based-on-poisson-processes.pdf)
 - M. Hoffman et al. **Stochastic Variational Inference**, JMLR, 2013 [[pdf]](https://arxiv.org/pdf/1206.7051.pdf)
 - J. Chang et al. **Parallel Sampling of HDPs using Sub-Cluster Splits**, NIPS, 2014 [[pdf]](https://papers.nips.cc/paper/5235-parallel-sampling-of-hdps-using-sub-cluster-splits.pdf)
+- M. Hoffman et al. **The No-U-Turn Sampler: Adaptively Setting Path Lengths in Hamiltonian Monte Carlo**, JMLR, 2014 [[pdf]](https://arxiv.org/pdf/1111.4246.pdf)
 
 
 ### Deep Learning
