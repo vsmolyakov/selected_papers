@@ -43,6 +43,7 @@
 
 ### Natural Language Processing
 
+- D. Blei et al., **Latent Dirichlet Allocation**, JMLR, 2003 [[pdf]](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
 - R. Mihalcea et al., **TextRank: Bringing Order into Texts**, EMNLP, 2004 [[pdf]](https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf)
 - T. Mikolov et al., **Efficient Estimation of Word Representations in Vector Space**, CoRR, 2013 [[pdf]](https://arxiv.org/pdf/1301.3781.pdf)
 - J. Pennington et al., **GloVe: Global Vectors for Word Representation**, EMNLP, 2014 [[pdf]](https://nlp.stanford.edu/pubs/glove.pdf)
