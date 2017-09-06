@@ -48,6 +48,7 @@
 - J. Pennington et al., **GloVe: Global Vectors for Word Representation**, EMNLP, 2014 [[pdf]](https://nlp.stanford.edu/pubs/glove.pdf)
 - Q. Le et al., **Distributed Representations of Sentences and Documents**, ICML, 2014 [[pdf]](https://arxiv.org/pdf/1405.4053v2.pdf)
 - I. Sutskever et al., **Sequence to Sequence Learning with Neural Networks**, NIPS, 2014 [[pdf]](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
+- Y. Kim et al., **Convolutional Neural Networks for Sentence Classification**, EMNLP, 2014 [[pdf]](https://arxiv.org/pdf/1408.5882.pdf)
 - D. Bahdanau et al., **Neural Machine Translation by Jointly Learning to Align and Translate**, ICLR, 2015 [[pdf]](https://arxiv.org/pdf/1409.0473.pdf)  
 
 
