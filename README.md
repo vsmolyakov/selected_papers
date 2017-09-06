@@ -12,7 +12,7 @@
 - M. Hoffman, **The No-U-Turn Sampler: Adaptively Setting Path Lengths in Hamiltonian Monte Carlo**, JMLR, 2014 [[pdf]](https://arxiv.org/pdf/1111.4246.pdf)
 - T. Chen et al. **XGBoost: A Scalable Tree Boosting System**, KDD, 2016 [[pdf]](https://arxiv.org/pdf/1603.02754.pdf)
 - A. Kucukelbir et al. **Automatic Differentiation Variational Inference**, JMLR, 2017 [[pdf]](https://arxiv.org/pdf/1603.00788.pdf)
-
+- D. Tran et al. **Deep Probabilistic Programming**, ICLR, 2017 [[pdf]](https://arxiv.org/pdf/1701.03757.pdf)
 
 ### Deep Learning
 
