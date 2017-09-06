@@ -4,6 +4,7 @@
 
 - M. Jordan et al., **An Introduction to MCMC for Machine Learning**, Machine Learning, 2003 [[pdf]](http://www.cs.bham.ac.uk/~axk/mcmc1.pdf)
 - Y. Teh et al. **Hierarchical Dirichlet Processes**, Journal of American Statistical Association, 2006 [[pdf]](https://people.eecs.berkeley.edu/~jordan/papers/hdp.pdf)
+- A. Patil et al. **PyMC: Bayesian Stochastic Modelling in Python**, Journal of Statistical Software, 2010 [[pdf]](https://www.jstatsoft.org/article/view/v035i04)
 - D. Lin et al. **Construction of Dependent Dirichlet Processes based on Poisson Processes**, NIPS, 2010 [[pdf]](https://papers.nips.cc/paper/4151-construction-of-dependent-dirichlet-processes-based-on-poisson-processes.pdf)
 - J. Snoek et al. **Practical Bayesian Optimization of Machine Learning Algorithms**, NIPS, 2012 [[pdf]](https://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf)
 - M. Hoffman et al. **Stochastic Variational Inference**, JMLR, 2013 [[pdf]](https://arxiv.org/pdf/1206.7051.pdf)
