@@ -44,6 +44,7 @@
 
 ### Natural Language Processing
 
+- R. Mihalcea et al., **TextRank: Bringing Order into Texts**, EMNLP, 2004 [[pdf]](https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf)
 - T. Mikolov et al., **Efficient Estimation of Word Representations in Vector Space**, CoRR, 2013 [[pdf]](https://arxiv.org/pdf/1301.3781.pdf)
 - J. Pennington et al., **GloVe: Global Vectors for Word Representation**, EMNLP, 2014 [[pdf]](https://nlp.stanford.edu/pubs/glove.pdf)
 - Q. Le et al., **Distributed Representations of Sentences and Documents**, ICML, 2014 [[pdf]](https://arxiv.org/pdf/1405.4053v2.pdf)
