@@ -54,7 +54,8 @@
 
 ### Speech Recognition
 
-- E. Fox et al., **A Sticky HDP-HMM with Application to Speaker Diarization**, Annals of Applied Statistics, 2011 [[pdf]](https://arxiv.org/pdf/0905.2592.pdf)  
+- E. Fox et al., **A Sticky HDP-HMM with Application to Speaker Diarization**, Annals of Applied Statistics, 2011 [[pdf]](https://arxiv.org/pdf/0905.2592.pdf)
+- C. Lee et al., **A Nonparametric Bayesian Approach to Acoustic Model Discovery**, ACL, 2012 [[pdf]](https://groups.csail.mit.edu/sls/publications/2012/Lee_ACL_2012.pdf)
 - N. Jaitly et al., **Application of Pretrained DNNs to Large Vocabulary Speech Recognition**, Interspeech, 2012 [[pdf]](http://www.cs.toronto.edu/~ndjaitly/jaitly-interspeech12.pdf)  
 - A. Graves et al., **Speech Recognition with Deep Recurrent Neural Networks**, ICASSP, 2013 [[pdf]](https://arxiv.org/pdf/1303.5778.pdf)  
 - D. Bahdanau et al., **End-to-End Attention-based Large Vocabulary Speech Recognition**, ICASSP, 2016 [[pdf]](https://arxiv.org/pdf/1508.04395.pdf)
