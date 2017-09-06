@@ -41,7 +41,6 @@
 - C. Dong et al., **Image Super-Resolution Using Deep Convolutional Networks**, TPAMI, 2016 [[pdf]](https://arxiv.org/pdf/1501.00092v3.pdf)
 
 
-
 ### Natural Language Processing
 
 - R. Mihalcea et al., **TextRank: Bringing Order into Texts**, EMNLP, 2004 [[pdf]](https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf)
@@ -55,6 +54,7 @@
 
 ### Speech Recognition
 
+- E. Fox et al., **A Sticky HDP-HMM with Application to Speaker Diarization**, Annals of Applied Statistics, 2011 [[pdf]](https://arxiv.org/pdf/0905.2592.pdf)  
 - N. Jaitly et al., **Application of Pretrained DNNs to Large Vocabulary Speech Recognition**, Interspeech, 2012 [[pdf]](http://www.cs.toronto.edu/~ndjaitly/jaitly-interspeech12.pdf)  
 - A. Graves et al., **Speech Recognition with Deep Recurrent Neural Networks**, ICASSP, 2013 [[pdf]](https://arxiv.org/pdf/1303.5778.pdf)  
 - D. Bahdanau et al., **End-to-End Attention-based Large Vocabulary Speech Recognition**, ICASSP, 2016 [[pdf]](https://arxiv.org/pdf/1508.04395.pdf)
