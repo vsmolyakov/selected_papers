@@ -18,12 +18,12 @@
 
 - A. Krizhevsky et al., **ImageNet Classification with Deep Convolutional Neural Networks**, NIPS, 2012 [[pdf]](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 - J. Bergstra et al., **Random Search for Hyper-Parameter Optimization**, JMLR, 2012 [[pdf]](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf)
-- M. Lin et al., **Network in Network**, CoRR, 2013 [[pdf]](https://arxiv.org/pdf/1312.4400.pdf)
+- M. Lin et al., **Network in Network**, arXiv, 2013 [[pdf]](https://arxiv.org/pdf/1312.4400.pdf)
 - I. Goodfellow et al., **Generative Adversarial Nets**, NIPS, 2014 [[pdf]](https://arxiv.org/pdf/1406.2661v1.pdf)
 - N. Srivastava et al., **Dropout: A Simple Way to Prevent Neural Networks from Overfitting**, JMLR, 2014 [[pdf]](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
 - K. Simonyan et al., **Very Deep Convolutional Networks for Large-Scale Image Recognition**, ICLR, 2015 [[pdf]](https://arxiv.org/pdf/1409.1556.pdf)
 - C. Szegedy et al., **Going Deeper with Convolutions**, CVPR, 2015 [[pdf]](https://arxiv.org/pdf/1409.4842v1.pdf)
-- K. He et al., **Deep Residual Learning for Image Recognition**, CoRR, 2015 [[pdf]](https://arxiv.org/pdf/1512.03385.pdf)
+- K. He et al., **Deep Residual Learning for Image Recognition**, arXiv, 2015 [[pdf]](https://arxiv.org/pdf/1512.03385.pdf)
 - D. Kingma et al., **Adam: A Method for Stochastic Optimization**, ICLR, 2015 [[pdf]](https://arxiv.org/pdf/1412.6980.pdf)
 - F. Iandola et al., **SqueezeNet**, ICLR, 2017 [[pdf]](https://arxiv.org/pdf/1602.07360.pdf)
 
@@ -34,7 +34,7 @@
 - A. Karpathy et al., **Large-scale Video Classification with Convolutional Neural Networks**, CVPR, 2014 [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Karpathy_Large-scale_Video_Classification_2014_CVPR_paper.pdf)
 - A. Davis et al., **The Visual Microphone: Passive Recovery of Sound from Video**, SIGGRAPH, 2014 [[pdf]](https://people.csail.mit.edu/mrub/papers/VisualMic_SIGGRAPH2014.pdf)
 - O. Vinyals et al., **Show and Tell: A Neural Image Caption Generator**, CVPR, 2015 [[pdf]](https://arxiv.org/pdf/1411.4555.pdf)
-- L. Gatys et al., **A Neural Algorithm of Artistic Style**, CoRR, 2015 [[pdf]](https://arxiv.org/pdf/1508.06576.pdf)
+- L. Gatys et al., **A Neural Algorithm of Artistic Style**, arXiv, 2015 [[pdf]](https://arxiv.org/pdf/1508.06576.pdf)
 - A. Agrawal et al., **VQA: Visual Question Answering**, ICCV, 2015 [[pdf]](https://arxiv.org/pdf/1505.00468.pdf)
 - R. Girshick et al., **Fast R-CNN**, ICCV, 2015 [[pdf]](https://arxiv.org/pdf/1504.08083.pdf)
 - J. Long et al., **Fully Convolutional Networks for Semantic Segmentation**, CVPR, 2015 [[pdf]](https://arxiv.org/pdf/1411.4038.pdf)
@@ -46,7 +46,7 @@
 
 - D. Blei et al., **Latent Dirichlet Allocation**, JMLR, 2003 [[pdf]](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
 - R. Mihalcea et al., **TextRank: Bringing Order into Texts**, EMNLP, 2004 [[pdf]](https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf)
-- T. Mikolov et al., **Efficient Estimation of Word Representations in Vector Space**, CoRR, 2013 [[pdf]](https://arxiv.org/pdf/1301.3781.pdf)
+- T. Mikolov et al., **Efficient Estimation of Word Representations in Vector Space**, arXiv, 2013 [[pdf]](https://arxiv.org/pdf/1301.3781.pdf)
 - J. Pennington et al., **GloVe: Global Vectors for Word Representation**, EMNLP, 2014 [[pdf]](https://nlp.stanford.edu/pubs/glove.pdf)
 - Q. Le et al., **Distributed Representations of Sentences and Documents**, ICML, 2014 [[pdf]](https://arxiv.org/pdf/1405.4053v2.pdf)
 - I. Sutskever et al., **Sequence to Sequence Learning with Neural Networks**, NIPS, 2014 [[pdf]](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
