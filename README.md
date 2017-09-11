@@ -25,6 +25,7 @@
 - C. Szegedy et al., **Going Deeper with Convolutions**, CVPR, 2015 [[pdf]](https://arxiv.org/pdf/1409.4842v1.pdf)
 - K. He et al., **Deep Residual Learning for Image Recognition**, arXiv, 2015 [[pdf]](https://arxiv.org/pdf/1512.03385.pdf)
 - D. Kingma et al., **Adam: A Method for Stochastic Optimization**, ICLR, 2015 [[pdf]](https://arxiv.org/pdf/1412.6980.pdf)
+- S. Ioffe et al., **Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariance Shift **, ICML, 2015 [[pdf]](https://arxiv.org/pdf/1502.03167.pdf)
 - F. Iandola et al., **SqueezeNet**, ICLR, 2017 [[pdf]](https://arxiv.org/pdf/1602.07360.pdf)
 
 
