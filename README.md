@@ -54,6 +54,7 @@
 - I. Sutskever et al., **Sequence to Sequence Learning with Neural Networks**, NIPS, 2014 [[pdf]](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
 - Y. Kim et al., **Convolutional Neural Networks for Sentence Classification**, EMNLP, 2014 [[pdf]](https://arxiv.org/pdf/1408.5882.pdf)
 - D. Bahdanau et al., **Neural Machine Translation by Jointly Learning to Align and Translate**, ICLR, 2015 [[pdf]](https://arxiv.org/pdf/1409.0473.pdf)  
+- A. Vaswani et al., **Attention Is All You Need**, NIPS, 2017 [[pdf]](http://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)  
 
 
 ### Speech Recognition
