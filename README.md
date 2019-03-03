@@ -70,4 +70,5 @@
 
 - V. Mnih et al., **Playing Atari with Deep Reinforcement Learning**, NIPS, 2013 [[pdf]](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)  
 - D. Silver et al., **Mastering the game of Go without human knowledge**, Nature, 2017 [[pdf]](https://deepmind.com/documents/119/agz_unformatted_nature.pdf)  
+- C. Finn et al., **Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks**, ICML, 2017 [[pdf]](https://arxiv.org/pdf/1703.03400.pdf)  
 
