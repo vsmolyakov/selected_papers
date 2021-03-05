@@ -28,6 +28,7 @@
 - D. Kingma et al., **Adam: A Method for Stochastic Optimization**, ICLR, 2015 [[pdf]](https://arxiv.org/pdf/1412.6980.pdf)
 - S. Ioffe et al., **Batch Normalization**, ICML, 2015 [[pdf]](https://arxiv.org/pdf/1502.03167.pdf)
 - F. Iandola et al., **SqueezeNet**, ICLR, 2017 [[pdf]](https://arxiv.org/pdf/1602.07360.pdf)
+- T. Kipf et al., **Semi-Supervised Classification with Graph Convolutional Networks**, ICLR, 2017 [[pdf]](https://arxiv.org/pdf/1609.02907.pdf)
 
 
 ### Computer Vision
