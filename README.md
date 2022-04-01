@@ -13,6 +13,7 @@
 - T. Chen et al. **XGBoost: A Scalable Tree Boosting System**, KDD, 2016 [[pdf]](https://arxiv.org/pdf/1603.02754.pdf)
 - A. Kucukelbir et al. **Automatic Differentiation Variational Inference**, JMLR, 2017 [[pdf]](https://arxiv.org/pdf/1603.00788.pdf)
 - D. Tran et al. **Deep Probabilistic Programming**, ICLR, 2017 [[pdf]](https://arxiv.org/pdf/1701.03757.pdf)
+- Y. Koren et al. **Matrix Factorization Techniques for Recommender Systems**, IEEE Computer, 2009 [[pdf]](https://ieeexplore.ieee.org/document/5197422)
 
 ### Deep Learning
 
