@@ -15,7 +15,8 @@
 - D. Tran et al. **Deep Probabilistic Programming**, ICLR, 2017 [[pdf]](https://arxiv.org/pdf/1701.03757.pdf)
 - Y. Koren et al. **Matrix Factorization Techniques for Recommender Systems**, IEEE Computer, 2009 [[pdf]](https://ieeexplore.ieee.org/document/5197422)
 - G. Ke et al. **LightGBM: A Highly Efficient Gradient Boosting Decision Tree**, NeurIPS, 2017 [[pdf]](https://proceedings.neurips.cc/paper/2017/file/6449f44a102fde848669bdd9eb6b76fa-Paper.pdf)
-- J. Ho et al. **Denoising Diffusion Probabilistic Models**, NeurIPS, 2020 [[pdf]](https://arxiv.org/abs/2006.11239)
+- D. Rezende et al. **Variational Inference with Normalizing Flows**, ICML, 2015 [[pdf]](https://arxiv.org/pdf/1505.05770.pdf)
+- J. Ho et al. **Denoising Diffusion Probabilistic Models**, NeurIPS, 2020 [[pdf]](https://arxiv.org/pdf/2006.11239.pdf)
 
 
 ### Deep Learning
