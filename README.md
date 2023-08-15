@@ -76,3 +76,8 @@
 - D. Silver et al., **Mastering the game of Go without human knowledge**, Nature, 2017 [[pdf]](https://deepmind.com/documents/119/agz_unformatted_nature.pdf)  
 - C. Finn et al., **Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks**, ICML, 2017 [[pdf]](https://arxiv.org/pdf/1703.03400.pdf)  
 
+### ML Systems Design
+
+- Y. Jing et al., **Visual Search at Pinterest", KDD, 2015 [[pdf]](https://arxiv.org/pdf/1505.07647.pdf)  
+- P. Nigam et al., **Semantic Product Search", KDD, 2019 [[pdf]](https://arxiv.org/pdf/1907.00937.pdf)  
+- P. Covington et al., **Deep Neural Networks for YouTube Recommendations", RecSys, 2016 [[pdf]](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf)
