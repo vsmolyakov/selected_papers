@@ -87,6 +87,7 @@
 ### Generative AI
 
 - L. Ouyang et al., **Training Language Models to Follow Instructions with Human Feedback**, arXiv, 2022 [[pdf]](https://arxiv.org/pdf/2203.02155.pdf)
+- J. Betker et al., **Improving Image Generation with Better Captions**, arXiv, 2023 [[pdf]](https://cdn.openai.com/papers/dall-e-3.pdf)
 - H. Touvron et al., **Llama 2: Open Foundation and Fine-Tuned Chat Models**, arXiv, 2023 [[pdf]](https://arxiv.org/pdf/2307.09288v2.pdf)
 - E. Hu et al., **LoRA: Low-Rank Adaptation of Large Language Models**, ICLR, 2022 [[pdf]](https://arxiv.org/pdf/2106.09685.pdf)
 - S. Yao et al., **ReAct: Synergizing Reasoning and Acting in Language Models**, ICLR, 2023 [[pdf]](https://arxiv.org/pdf/2210.03629.pdf)
