@@ -99,9 +99,10 @@
 - R. Rafailov et al., **Direct Preference Optimization: Your Language Model is Secretly a Reward Model**, arXiv, 2024 [[pdf]](https://arxiv.org/pdf/2305.18290)  
 - T. Wu et al., **Thinking LLMs: General Instruction Following with Thought Generation**, arXiv, 2024 [[pdf]](https://arxiv.org/pdf/2410.10630)    
 - J. Betker et al., **Improving Image Generation with Better Captions**, arXiv, 2023 [[pdf]](https://cdn.openai.com/papers/dall-e-3.pdf)
-- H. Touvron et al., **Llama 2: Open Foundation and Fine-Tuned Chat Models**, arXiv, 2023 [[pdf]](https://arxiv.org/pdf/2307.09288v2.pdf)
+- A. Dubey et al., **The Llama 3 Herd of Models**, arXiv, 2024 [[pdf]](https://arxiv.org/pdf/2407.21783)  
 - E. Hu et al., **LoRA: Low-Rank Adaptation of Large Language Models**, ICLR, 2022 [[pdf]](https://arxiv.org/pdf/2106.09685.pdf)
 - S. Yao et al., **ReAct: Synergizing Reasoning and Acting in Language Models**, ICLR, 2023 [[pdf]](https://arxiv.org/pdf/2210.03629.pdf)
+- T. Zhang et al., **RAFT: Apating Language Model to Domain Specific RAG**, arXiv, 2024 [[pdf]](https://arxiv.org/pdf/2403.10131)  
 - G. Hinton et al., **Distilling the Knowledge in a Neural Network**, NeurIPS, 2014 [[pdf]](https://arxiv.org/pdf/1503.02531.pdf)
 - J. Kaplan et al., **Scaling Laws for Neural Language Models**, arXiv, 2020 [[pdf]](https://arxiv.org/pdf/2001.08361.pdf)
 
