@@ -82,7 +82,9 @@
 
 - Y. Jing et al., **Visual Search at Pinterest**, KDD, 2015 [[pdf]](https://arxiv.org/pdf/1505.07647.pdf)  
 - P. Nigam et al., **Semantic Product Search**, KDD, 2019 [[pdf]](https://arxiv.org/pdf/1907.00937.pdf)  
-- P. Covington et al., **Deep Neural Networks for YouTube Recommendations**, RecSys, 2016 [[pdf]](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf)
+- P. Covington et al., **Deep Neural Networks for YouTube Recommendations**, RecSys, 2016 [[pdf]](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf)  
+- M. Chen et al., **Gmail Smart Compose: Real-Time Assisted Writing**, KDD, 2019 [[pdf]](https://arxiv.org/pdf/1906.00080)    
+
 
 ### Generative AI
 
