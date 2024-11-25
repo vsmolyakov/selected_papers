@@ -88,8 +88,9 @@
 ### Machine Learning Engineering
 
 - W. Kwon et al., **Efficient Memory Management for Large Language Model Serving with Paged Attention**, SOSP, 2023 [[pdf]](https://arxiv.org/pdf/2309.06180)  
+- T. Dao et al., **FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness**, arXiv, 2022 [[pdf]](https://arxiv.org/pdf/2205.14135)      
 - A. Agrawal et al., **Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve**, arXiv, 2024 [[pdf]](https://arxiv.org/pdf/2403.02310)  
-- L. Chen et al., **Punica: Multi-Tenant LoRA Serving**, arXiv, 2023 [[pdf]](https://arxiv.org/pdf/2310.18547)      
+- L. Chen et al., **Punica: Multi-Tenant LoRA Serving**, arXiv, 2023 [[pdf]](https://arxiv.org/pdf/2310.18547) 
   
 
 
